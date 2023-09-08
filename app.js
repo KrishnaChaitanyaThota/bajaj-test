@@ -21,9 +21,9 @@ app.post('/bfhl', (req, res) => {
       });
     const response = {
       is_sucess: 'true',
-      user_id:'ritik_raj_19022003',
-      college_email:'rr4673@srmist.edu.in',
-      roll_number:'RA2011003010334',
+      user_id:'krishna_12062002',
+      college_email:'kt0731@srmist.edu.in',
+      roll_number:'RA2011003010340',
       numbers:numb,
       alphabets:alpha
     };
